@@ -16,8 +16,10 @@ Alternatively, you can directly install the environment using:
 ```bash
 pip install -r requirements.txt
 
+```
 You can download Meta-Llama-3-8B-Instruct from HuggingFace and place it in this directory. Make sure to modify the model path before using it. We use a single Nvidia GeForce RTX 4090 GPU for our experiments.
 
 
 # Training model:
-commands to run the model:
+commands to run the model in the WN18RR:
+python modelwn18rr.py
