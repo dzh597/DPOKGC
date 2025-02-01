@@ -1,0 +1,11 @@
+{"Raw": "_member_of_domain_usage", "Description": "A is a term or word that belongs to the category or domain of B's usage."}
+{"Raw": "_has_part", "Description": "A is a component or a constituent of B."}
+{"Raw": "_also_see", "Description": "A is a synonym of B.\""}
+{"Raw": "_hypernym", "Description": "A is a broader category of B."}
+{"Raw": "_synset_domain_topic_of", "Description": "A is a topic or subject area related to B."}
+{"Raw": "_derivationally_related_form", "Description": "A is a word that is formed from B by adding a prefix or suffix."}
+{"Raw": "_similar_to", "Description": "A shares a common characteristic or trait with B.\""}
+{"Raw": "_instance_hypernym", "Description": "A is a broader category of B."}
+{"Raw": "_verb_group", "Description": "A is a verb that is commonly used with B in a specific grammatical structure.\""}
+{"Raw": "_member_meronym", "Description": "A is a part/member of B."}
+{"Raw": "_member_of_domain_region", "Description": "A is located in or associated with B."}

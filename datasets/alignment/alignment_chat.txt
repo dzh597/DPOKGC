@@ -1,0 +1,396 @@
+_member_of_domain_usage
+You are a good assistant to reading, understanding and summarizing.
+red indian be member of domain usage of disparagement
+compass be member of domain usage of archaism
+penicillin v potassium be member of domain usage of trade name
+nanna be member of domain usage of united kingdom of great britain and northern ireland
+nerves be member of domain usage of plural form
+zyloprim be member of domain usage of trademark
+krauthead be member of domain usage of disparagement
+goggles be member of domain usage of plural form
+buspirone be member of domain usage of trademark
+kafir be member of domain usage of disparagement
+redskin be member of domain usage of disparagement
+bitch be member of domain usage of vernacular
+lozal be member of domain usage of trade name
+urex be member of domain usage of trade name
+salutation be member of domain usage of plural form
+takedown be member of domain usage of colloquialism
+paleface be member of domain usage of vernacular
+singultus be member of domain usage of plural form
+vasotec be member of domain usage of trade name
+hypertensin be member of domain usage of trademark
+cert be member of domain usage of vernacular
+trimmings be member of domain usage of plural form
+slant-eye be member of domain usage of disparagement
+kantrex be member of domain usage of trade name
+indian giver be member of domain usage of disparagement
+rip-off be member of domain usage of vernacular
+torodal be member of domain usage of trade name
+key be member of domain usage of vernacular
+right be member of domain usage of plural form
+quaalude be member of domain usage of trade name
+In above examples, What do you think "be member of domain usage of" mean? Summarize and descript its meaning using the format: "If the example shows something A be member of domain usage of something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+If the example shows something A be member of domain usage of something B, it means A is a term or word that belongs to the category or domain of B's usage.
+------------------------------------------
+_has_part
+You are a good assistant to reading, understanding and summarizing.
+clinch has part nail
+dika nut has part wild mango tree
+tyrolean alps has part italy
+st john's night has part june
+quill has part hedgehog
+mibit has part gibit
+poll has part human head
+hem has part textile
+silk gland has part wild wilkworm
+taskent has part uzbekistan
+kalaallit nunaat has part arctic ocean
+los angeles has part golden state
+aare river has part switzerland
+babylon has part mesopotamia
+lublin has part republic of poland
+monilia albicans has part moniliasis
+cerebral hemorrhage has part stroke
+palermo has part sicily
+arm has part physical structure
+twelve noon has part twenty-four hours
+tucson has part grand canyon state
+dram has part troy ounce
+chuck has part electric drill
+backrest has part chair
+doorknob has part outside door
+new haven has part nutmeg state
+delaware river has part ny
+timor has part republic of indonesia
+minute has part hr
+polynesia has part austronesia
+In above examples, What do you think "has part" mean? Summarize and descript its meaning using the format: "If the example shows something A has part something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+If the example shows something A has part something B, it means A is a component or a constituent of B.
+------------------------------------------
+_also_see
+You are a good assistant to reading, understanding and summarizing.
+simple also see easy
+energetic also see lively
+unreliable also see untrusty
+good also see good
+kind also see good-natured
+shape up also see go
+rugged also see strong
+put in also see chime
+unperceivable also see unseeable
+critical also see unfavourable
+crash also see wear out
+tin also see put
+stable also see constant
+neutral also see colourless
+foolish also see imprudent
+send packing also see send
+unsubstantial also see nonmaterial
+harmless also see benignant
+trusty also see reliable
+spread also see travel
+specify also see set
+sorrowful also see unhappy
+unenrgetic also see inactive
+hard also see insensitive
+roast also see laugh
+unpleasant also see unpalatable
+stick out also see stand
+squirt also see squeeze
+insincere also see imitative
+ordered also see logical
+In above examples, What do you think "also see" mean? Summarize and descript its meaning using the format: "If the example shows something A also see something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+"If the example shows something A also see something B, it means A is a synonym of B."
+------------------------------------------
+_hypernym
+You are a good assistant to reading, understanding and summarizing.
+process be hypernym of routine
+pan be hypernym of skillet
+mandarin orange tree be hypernym of tangerine tree
+inhabitant be hypernym of worldling
+twist be hypernym of wring
+whorl be hypernym of crimp
+plant order be hypernym of selaginellales
+ingredient be hypernym of plot element
+ceremony be hypernym of military ceremony
+coating be hypernym of enamel
+excitement be hypernym of thrill
+letter of the alphabet be hypernym of pe
+conductor be hypernym of cu
+room be hypernym of closet
+challenge be hypernym of litigate
+mammal family be hypernym of notoryctidae
+pole be hypernym of spar
+soul be hypernym of bather
+misrepresentation be hypernym of tergiversation
+asterid dicot genus be hypernym of lycopus
+movement be hypernym of heave
+chemical agent be hypernym of vesicatory
+set be hypernym of suite
+social movement be hypernym of political movement
+verbalizer be hypernym of lisper
+monster be hypernym of mythical monster
+spot be hypernym of curacy
+watercraft be hypernym of fishing vessel
+cake be hypernym of victoria sponge
+division be hypernym of subdivision
+In above examples, What do you think "be hypernym of" mean? Summarize and descript its meaning using the format: "If the example shows something A be hypernym of something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+If the example shows something A be hypernym of something B, it means A is a broader category of B.
+------------------------------------------
+_synset_domain_topic_of
+You are a good assistant to reading, understanding and summarizing.
+middle ages be synset domain topic of bloodletting
+law be synset domain topic of rationale
+sanskritic language be synset domain topic of vedic literature
+war machine be synset domain topic of hardware
+heraldry be synset domain topic of fleur-de-lys
+general anatomy be synset domain topic of run
+embryology be synset domain topic of nidation
+physical chemistry be synset domain topic of ionize
+terrorist act be synset domain topic of dhahran
+concern be synset domain topic of shipping room
+general anatomy be synset domain topic of radicle
+psychology be synset domain topic of rehearsal
+terrorist act be synset domain topic of nuclear terrorism
+linguistics be synset domain topic of prescriptivism
+computing be synset domain topic of memory access
+system of numeration be synset domain topic of radix
+environmental science be synset domain topic of food chain
+yiddish be synset domain topic of goniff
+psychoanalysis be synset domain topic of latent content
+maths be synset domain topic of parity
+heavenly body be synset domain topic of winkle
+american football game be synset domain topic of return
+terrorist act be synset domain topic of nest
+west pakistan be synset domain topic of punchayet
+philosophy be synset domain topic of esthetic
+ocean be synset domain topic of water
+general anatomy be synset domain topic of fissure
+physiology be synset domain topic of adaptation
+chemistry be synset domain topic of osmosis
+war machine be synset domain topic of firing squad
+In above examples, What do you think "be synset domain topic of" mean? Summarize and descript its meaning using the format: "If the example shows something A be synset domain topic of something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+If the example shows something A be synset domain topic of something B, it means A is a topic or subject area related to B.
+------------------------------------------
+_derivationally_related_form
+You are a good assistant to reading, understanding and summarizing.
+travail be derivationally related form hacker
+preservation be derivationally related form uphold
+wild be derivationally related form wild
+defense force be derivationally related form hold
+stamp be derivationally related form stamp
+reference be derivationally related form source
+teach be derivationally related form teacher
+snuggle be derivationally related form cuddle
+trust be derivationally related form reliance
+psychoneurotic be derivationally related form psychoneurotic
+surcharge be derivationally related form overcharge
+luck be derivationally related form chance
+resound be derivationally related form racket
+plaintiff be derivationally related form complain
+street person be derivationally related form doss down
+moroccan be derivationally related form moroccan
+wage be derivationally related form pay off
+suspiration be derivationally related form sigh
+request be derivationally related form request
+stripteaser be derivationally related form undress
+suffering be derivationally related form hurt
+youngster be derivationally related form puerility
+withdraw be derivationally related form retirement
+executive be derivationally related form fulfill
+taping be derivationally related form videotape
+move be derivationally related form removal firm
+take be derivationally related form studying
+fender be derivationally related form soften
+shoe be derivationally related form shoe
+purebred be derivationally related form thoroughbred
+In above examples, What do you think "be derivationally related form" mean? Summarize and descript its meaning using the format: "If the example shows something A be derivationally related form something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+If the example shows something A be derivationally related form something B, it means A is a word that is formed from B by adding a prefix or suffix.
+------------------------------------------
+_similar_to
+You are a good assistant to reading, understanding and summarizing.
+array be similar to desirable
+thrash be similar to unlikely
+design be similar to breakable
+one by one be similar to uncomparable
+practical be similar to nightjar
+concave be similar to cotillion
+attractive be similar to exchange
+dead be similar to jail delivery
+replay be similar to unfit
+wander be similar to distinct
+longicorn beetle be similar to unsubdivided
+german short-haired pointer be similar to senior
+caudated be similar to fire
+solidify be similar to nigh
+genuine be similar to teleselling
+unsubdivided be similar to longicorn beetle
+neutral be similar to drawing off
+sociolinguistically be similar to anterior
+cuticula be similar to provident
+transfer be similar to tasteful
+anterior be similar to sociolinguistically
+provident be similar to cuticula
+tasteful be similar to transfer
+exchange be similar to attractive
+air out be similar to joint
+tyrannus vociferans be similar to moral
+wicked be similar to lobefin
+variable be similar to turn up the pressure
+senior be similar to german short-haired pointer
+cotillion be similar to concave
+In above examples, What do you think "be similar to" mean? Summarize and descript its meaning using the format: "If the example shows something A be similar to something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+"If the example shows something A be similar to something B, it means A shares a common characteristic or trait with B."
+------------------------------------------
+_instance_hypernym
+You are a good assistant to reading, understanding and summarizing.
+port be instance hypernym of korinthos
+island be instance hypernym of ireland
+playwright be instance hypernym of sir noel pierce coward
+urban center be instance hypernym of jersey city
+urban center be instance hypernym of kitakyushu
+island be instance hypernym of hispaniola
+state be instance hypernym of bosnia
+librettist be instance hypernym of william schwenk gilbert
+urban center be instance hypernym of arnhem
+vicar of christ be instance hypernym of oddone colonna
+peninsula be instance hypernym of jylland
+urban center be instance hypernym of governador valadares
+civil rights worker be instance hypernym of jesse louis jackson
+siege be instance hypernym of yorktown
+port be instance hypernym of le havre
+river be instance hypernym of green river
+river be instance hypernym of niagara river
+national capital be instance hypernym of kishinev
+urban center be instance hypernym of san antonio
+river be instance hypernym of styx
+port be instance hypernym of st. louis
+moneyman be instance hypernym of rhodes
+national capital be instance hypernym of lhasa
+european nation be instance hypernym of spain
+slave be instance hypernym of turner
+terrorist organization be instance hypernym of nestor paz zamora commission
+african nation be instance hypernym of republic of cameroon
+state be instance hypernym of kansu
+vocalizer be instance hypernym of robert nesta marley
+urban center be instance hypernym of oujda
+In above examples, What do you think "be instance hypernym of" mean? Summarize and descript its meaning using the format: "If the example shows something A be instance hypernym of something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+If the example shows something A be instance hypernym of something B, it means A is a broader category of B.
+------------------------------------------
+_verb_group
+You are a good assistant to reading, understanding and summarizing.
+hang be verb group of hang up
+find be verb group of find
+work be verb group of work
+tattle be verb group of talk
+move be verb group of propel
+read be verb group of read
+provoke be verb group of stir
+vanish be verb group of vaporize
+thrash be verb group of thresh
+get dressed be verb group of dress up
+primp be verb group of get dressed
+work be verb group of work
+slump be verb group of sink
+swim be verb group of float
+dress be verb group of dress out
+seal off be verb group of seal
+withdraw be verb group of withdraw
+normalize be verb group of renormalize
+observe be verb group of find
+smash be verb group of smash
+interrelate be verb group of relate
+yell be verb group of shout
+sweep be verb group of sweep
+ride be verb group of sit
+dissolve be verb group of fade out
+twine be verb group of twine
+hold be verb group of bear
+steamroller be verb group of steamroller
+sway be verb group of sway
+return be verb group of fall
+In above examples, What do you think "be verb group of" mean? Summarize and descript its meaning using the format: "If the example shows something A be verb group of something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+"If the example shows something A be verb group of something B, it means A is a verb that is commonly used with B in a specific grammatical structure."
+------------------------------------------
+_member_meronym
+You are a good assistant to reading, understanding and summarizing.
+antlion fly be member meronym of myrmeleon
+silkworm moth be member meronym of family bombycidae
+genus agrostis be member meronym of poaceae
+lavatera be member meronym of malvaceae
+ginger be member meronym of zingiber
+juniper be member meronym of juniperus
+flying lizard be member meronym of genus draco
+squamata be member meronym of subclass lepidosauria
+gleditsia be member meronym of subfamily caesalpinioideae
+hygrophorus be member meronym of hygrophoraceae
+river prawn be member meronym of palaemon
+alder tree be member meronym of genus alnus
+yellow mariposa tulip be member meronym of genus calochortus
+sothis be member meronym of great dog
+republic of colombia be member meronym of organization of american states
+thevetia be member meronym of family apocynaceae
+basil be member meronym of ocimum
+pratincole be member meronym of glareola
+salvelinus be member meronym of salmonidae
+gallinula chloropus cachinnans be member meronym of genus gallinula
+shaktist be member meronym of shaktism
+wood mint be member meronym of genus blephilia
+teiid lizard be member meronym of teiidae
+ctenophore family be member meronym of kingdom animalia
+rose family be member meronym of rosales
+family dendrocolaptidae be member meronym of tyranni
+megachile be member meronym of megachilidae
+uropsilus be member meronym of talpidae
+genus blattella be member meronym of family blattidae
+whorlywort be member meronym of scrophulariaceae
+In above examples, What do you think "be member meronym of" mean? Summarize and descript its meaning using the format: "If the example shows something A be member meronym of something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+"Be member meronym of" means that A is a part or a member of B. If the example shows something A be member meronym of something B, it means A is a part/member of B.
+------------------------------------------
+_member_of_domain_region
+You are a good assistant to reading, understanding and summarizing.
+chancellor be member of domain region of united kingdom of great britain and northern ireland
+commune be member of domain region of italy
+oengus be member of domain region of ireland
+black september movement be member of domain region of jordan
+fascia be member of domain region of united kingdom of great britain and northern ireland
+doorknob be member of domain region of united kingdom of great britain and northern ireland
+quadrillion be member of domain region of french republic
+spotsylvania be member of domain region of virginia
+hard shoulder be member of domain region of united kingdom of great britain and northern ireland
+one million million be member of domain region of united kingdom of great britain and northern ireland
+fabianism be member of domain region of united kingdom of great britain and northern ireland
+manuel rodriquez patriotic front be member of domain region of republic of chile
+sweet fanny adams be member of domain region of united kingdom of great britain and northern ireland
+pudding be member of domain region of united kingdom of great britain and northern ireland
+fatah be member of domain region of palestine
+barrio be member of domain region of usa
+east turkistan islamic movement be member of domain region of xinjiang uighur autonomous region
+tribe be member of domain region of usa
+teatime be member of domain region of united kingdom of great britain and northern ireland
+november 5 be member of domain region of united kingdom of great britain and northern ireland
+marne river be member of domain region of french republic
+union be member of domain region of usa
+rustication be member of domain region of united kingdom of great britain and northern ireland
+revolutionary people's liberation party be member of domain region of turkey
+second estate be member of domain region of french republic
+procurator be member of domain region of rome
+common room be member of domain region of united kingdom of great britain and northern ireland
+vac be member of domain region of united kingdom of great britain and northern ireland
+current account be member of domain region of canada
+latin america be member of domain region of north america
+In above examples, What do you think "be member of domain region of" mean? Summarize and descript its meaning using the format: "If the example shows something A be member of domain region of something B, it means A is [mask] of B." Fill the mask and the statement should be as short as possible.
+******
+If the example shows something A be member of domain region of something B, it means A is located in or associated with B.
+------------------------------------------
