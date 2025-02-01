@@ -1,5 +1,5 @@
 
-<h1 align="center">Are Message Passing  Neural Networks Really Helpful for Knowledge Graph Completion?</h1>
+<h1 align="center">Enhancing Knowledge Graph Completion with Direct Preference Optimization</h1>
 You can download Meta-Llama-3-8B-Instruct from HuggingFace and place it in this directory. Make sure to modify the model path before using it. We use a single Nvidia GeForce RTX 4090 GPU for our experiments.
 # Requirements
 
