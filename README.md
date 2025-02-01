@@ -22,4 +22,7 @@ You can download Meta-Llama-3-8B-Instruct from HuggingFace and place it in this 
 
 # Training model:
 commands to run the model in the WN18RR:
+```bash
 python modelwn18rr.py
+```
+You can change the path to train on other datasets.
