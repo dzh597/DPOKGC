@@ -6,7 +6,7 @@ You can download Meta-Llama-3-8B-Instruct from HuggingFace and place it in this 
 
 Ensure you have Python 3.8 installed along with the following packages:
 
-- **Python**: 3.8
+- **tqdm**: >=4.66.5
 - **Transformers**: >=4.45.2
 - **Bitsandbytes**: ==0.43.1
 - **Torch**: 2.1.0
