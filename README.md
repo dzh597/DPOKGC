@@ -1,5 +1,5 @@
 
-<h1 align="center">Enhancing Knowledge Graph Completion with Direct Preference Optimization</h1>
+<h1 align="center">Leveraging Direct Preference Optimization for LLM Fine-tuning in Knowledge Graph Completion</h1>
 
 
 ## Requirements
